@@ -53,4 +53,4 @@ pern-blog/
 - Add authentication (JWT) so only logged-in users can create/edit/delete
 - Add pagination to `GET /api/posts`
 - Add a production Dockerfile for the frontend (multi-stage build → nginx)
-- Add categories/tags, a search box, or markdown rendering for post content
+- Add categories/tags, a search box, or markdown rendering for post content# Simple-Blogging-App-PernStack
